@@ -78,3 +78,6 @@ coverage/
 # Project specific
 infra/grafana/data/
 prometheus_data/
+
+# Generated assets
+/frontend/public/assets/
