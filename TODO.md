@@ -6,7 +6,7 @@ Adaptive Web Speed as a Service (AWSaaS).
 This project aims to provide highly optimized web content delivery, focusing on speed and adaptive resource loading.
 
 ## TODOs
-- [ ] **Image Processing Automation:** Implement a build-time script (e.g., using `ffmpeg` or `sharp`) to automatically generate multiple resolutions (small, medium, large) for high-quality source images.
+- [x] **Image Processing Automation:** Implement a build-time script (e.g., using `ffmpeg` or `sharp`) to automatically generate multiple resolutions (small, medium, large) for high-quality source images.
 - [ ] **Frontend Integration:** Complete the frontend integration for various services and features.
 - [ ] **Backend Integration:** Implement saving form data to PostgreSQL.
 - [ ] **Adaptive Loading:** Refine the `useAWSaaS` hook and `DeferredFeature` component to better handle varying network conditions.
